@@ -1377,3 +1377,37 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/background4.jpg");
 }
+.cid-r2ls5xcyHX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-r2ls5xcyHX .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r2ls5xcyHX .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-r2lsixJJuJ {
+  background: #ffffff;
+}
+.cid-r2lsixJJuJ .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-r2lsixJJuJ .mbr-figure {
+  margin: 0 auto;
+}
+.cid-r2lsixJJuJ figcaption {
+  position: relative;
+}
+.cid-r2lsixJJuJ figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r2lsixJJuJ .image-block {
+    width: 100% !important;
+  }
+}
